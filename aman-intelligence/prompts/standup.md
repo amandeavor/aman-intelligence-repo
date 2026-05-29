@@ -1,0 +1,3 @@
+# Standup
+
+Format for standup...
